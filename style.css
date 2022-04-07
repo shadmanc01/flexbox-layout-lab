@@ -1,0 +1,17 @@
+h1{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.img1{
+    width: 1400px;
+    height: 437px;
+    position: relative;
+    top: 50px;
+}
+
+.tabs{
+    display: flex;
+    justify-content: flex-end;
+}
